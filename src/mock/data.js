@@ -36,7 +36,7 @@ export const lessonData = [
   },
   {
     lessonNumber: 2,
-    video: "https://www.youtube.com/embed/W6NZfCO5SIk",
+    video: "https://www.youtube.com/embed/Xm4BObh4MhI",
     name: "Lesson 2",
     description: "Lesson 2 Description",
     quiz: {
@@ -106,7 +106,7 @@ export const lessonData = [
   },
   {
     lessonNumber: 4,
-    video: "https://www.youtube.com/embed/W6NZfCO5SIk",
+    video: "https://www.youtube.com/embed/Xm4BObh4MhI",
     name: "Lesson 4",
     description: "Lesson 4 Description",
     quiz: {
