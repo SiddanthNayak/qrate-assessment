@@ -1,0 +1,28 @@
+.container {
+  height: 100%;
+  max-width: 850px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonGroup {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.buttonGroup button {
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 4px;
+  margin: 5px;
+  padding: 8px 16px;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.buttonGroup button:hover {
+  background-color: #d9d9d9;
+}
