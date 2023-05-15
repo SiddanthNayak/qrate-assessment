@@ -14,6 +14,7 @@ const LessonTile = ({ lesson, handleClick }) => {
       }
       return 0;
     }
+    return 0;
   };
 
   return (
